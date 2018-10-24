@@ -8,7 +8,7 @@
 .vscode
 
 #Power BI files
-.pbix
+*/.pbix/*
 
 #Ignore csv_files
 *.csv
